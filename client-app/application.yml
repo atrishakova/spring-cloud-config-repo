@@ -1,0 +1,3 @@
+app:
+  common-message: "Common config for all apps"
+  version: 1.0
